@@ -30,3 +30,10 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |6		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |09-01-2023		|Uploaded |
 |7.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |09-01-2023		|Uploaded |
 |8.		|[TM to perform  subtraction](#exp18)<br/>	|Automaton Simulator |09-01-2023		|Uploaded |
+|9.		|[TM to perform  string comparisons](#exp19)<br/>	|Automaton Simulator |09-01-2023		|Uploaded |
+|10.	|[Write CFG to product string which consists of substring  ‘aa’](#exp20)<br/>	|CFG - Website |09-01-2023		|Uploaded |
+|11.	|[Write Context Free Grammar to Generate Palindrome](#exp21)<br/>	|CFG - Website |09-01-2023		|Uploaded |
+|12.	|[](#exp22)<br/>	| |		| |
+|13.	|[](#exp23)<br/>	| |		| |
+|14.	|[Write CFG which will produce string over  set = {a,b} that start with ‘a’  and end with ‘b’](#exp24)<br/>	|CFG - Website |09-01-2023		|Uploaded |
+|15.	|[Write Context Free Grammar to Generate Palindrome](#exp25)<br/>	|CFG - Website |09-01-2023		|Uploaded |
