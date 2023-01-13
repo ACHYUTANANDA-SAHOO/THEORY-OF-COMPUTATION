@@ -26,10 +26,10 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |11.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |- |
 | | **SIMULATIONS** ||  |
 |12.		|[Design DFA to accept "a", "ac" and "bac". ](#exp11)	|Automaton Simulator |Uploaded |
-|13.		|[PDA for aabb](#exp12)<br/>	|Automaton Simulator |Uploaded |
-|14.		|[PDA for a^n.b^2n](#exp13)<br/>	|Automaton Simulator |Uploaded |
-|15.		|[TM  For input a^n.b^n](#exp14)<br/>	|Automaton Simulator |- |
-|16.		|[TM  for input a^nb^2n)](#exp15)<br/>	|Automaton Simulator |- |
+|13.		|[PDA for L = a^n.b^n](#exp12)<br/>	|Automaton Simulator |Uploaded |
+|14.		|[PDA for L = a^n.b^2n](#exp13)<br/>	|Automaton Simulator |Uploaded |
+|15.		|[TM  For input L =  a^n.b^n](#exp14)<br/>	|Automaton Simulator |- |
+|16.		|[TM  for input L = a^n.b^2n)](#exp15)<br/>	|Automaton Simulator |- |
 |17.		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |- |
 |18.		|[TM for L = w.w ](#exp17)<br/>	|Automaton Simulator |- |
 |19.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |- |
