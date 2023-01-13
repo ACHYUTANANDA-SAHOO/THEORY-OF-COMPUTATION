@@ -13,14 +13,16 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |Exp.No 		|Expermiment Title & Link  	|Language/Software Used |Date Of Experiment	|Status |
 |:---:|:---:|:---:|:---:|:---:|
 | | **PROGRAMS** | |  |
-|1.		|[Simulate DFA](#exp1)	|VSCode - C |09-01-2023		|- |
-|2.		|[Simulate NFA](#exp2)<br/>	|VSCode - C |09-01-2023		|- |
-|3.		|[Find E-Closure for all states](#exp3)<br/>	|VSCode - C |09-01-2023		|- |
-|4.		|[Check If a string belongs to a grammar](#exp4)<br/>	|VSCode - C |09-01-2023		|- |
-|5.		|[Simulate PDA for 0^n.1^n](#exp5)<br/>	|VSCode - C |09-01-2023		|- |
-|6		|[Simulate PDA for a^n.b^2n](#exp6)<br/>	|VSCode - C |09-01-2023		|- |
-|7.		|[Simulate Turing Machine](#exp7)<br/>	|VSCode - C |09-01-2023		|- |
-|8.		|[Case Study - Application of Finite Automata](#exp8)<br/>	|VSCode - C |09-01-2023		|- |
+|1.		|[Simulate DFA - 1](#exp1)	|VSCode - C |09-01-2023		|Uploaded |
+|2.		|[Simulate DFA - 2](#exp2)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|3.		|[Check if a string belongs to a CFG - 1](#exp3)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|4.		|[Check if a string belongs to a CFG - 2](#exp4)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|5.		|[Check if a string belongs to a CFG - 3](#exp5)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|6		|[Check if a string belongs to a CFG - 4](#exp6)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|7.		|[Check if a string belongs to a CFG - 5](#exp7)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|8.		|[Simulate NFA - 1](#exp8)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|9.		|[Simulate NFA - 2](#exp9)<br/>	|VSCode - C |09-01-2023		|Uploaded |
+|10.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |09-01-2023		|- |
 | | **SIMULATIONS** ||  |
 |1.		|[Design DFA to accept  bcaaaaaaaaaaaaaa, bc,  and  c](#exp11)	|Automaton Simulator |09-01-2023		|- |
 |2.		|[Design  NFA  to accept   aaaaaa](#exp12)<br/>	|Automaton Simulator |09-01-2023		|- |
