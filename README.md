@@ -133,17 +133,17 @@ Output :
 ![exp11]()<br/>
 
 ## EXPERIMENT 12 : 
-**AIM** : Write an assembly language program to find factorial of n in the given number. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_12_factorial.asm)<br/>
-Output : 
-![exp12](https://user-images.githubusercontent.com/113246116/194008586-39874916-f51c-460c-80b6-e30ca5d9b906.png)
+**AIM** : Design DFA using simulator to accept the input string “a” ,”ac”,and ”bac”. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp12_DFASim)<br/>
+**Output :** </br>
+![exp12](https://user-images.githubusercontent.com/113246116/212978167-be204213-19dc-4193-969a-28fe071b1fe9.gif)
 <br/>
 
 ## EXPERIMENT 13 : 
-**AIM** : Write an assembly language program to find the largest number in an array. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_13_largest_num.asm)<br/>
-Output : <br/>
-![exp13](https://user-images.githubusercontent.com/113246116/194010807-f73701c2-13f7-4988-b7e0-bc2fdbfa6134.png)
+**AIM** : Design PDA using simulator to accept the input string aabb.  <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp13_DFASim)<br/>
+**Output :** <br/>
+![exp13](https://user-images.githubusercontent.com/113246116/212979012-3b9e6e3a-32a7-4df0-8e6d-25aedbb7b44a.gif)
 <br/>
 
 ## EXPERIMENT 14 : 
