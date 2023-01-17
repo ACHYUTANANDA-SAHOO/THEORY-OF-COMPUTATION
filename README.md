@@ -28,8 +28,8 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |12.		|[Design DFA to accept "a", "ac" and "bac". ](#exp11)	|Automaton Simulator |Uploaded |
 |13.		|[PDA for L = a^n.b^n](#exp12)<br/>	|Automaton Simulator |Uploaded |
 |14.		|[PDA for L = a^n.b^2n](#exp13)<br/>	|Automaton Simulator |Uploaded |
-|15.		|[TM  For input L =  a^n.b^n](#exp14)<br/>	|Automaton Simulator |- |
-|16.		|[TM  for input L = a^n.b^2n)](#exp15)<br/>	|Automaton Simulator |- |
+|15.		|[TM  For input L =  a^n.b^n](#exp14)<br/>	|Automaton Simulator |Uploaded |
+|16.		|[TM  for input L = a^n.b^2n)](#exp15)<br/>	|Automaton Simulator |Uploaded |
 |17.		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |- |
 |18.		|[TM for L = w.w ](#exp17)<br/>	|Automaton Simulator |- |
 |19.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |- |
