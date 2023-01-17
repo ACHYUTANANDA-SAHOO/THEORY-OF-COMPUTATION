@@ -183,10 +183,10 @@ Output :
 
 
 ## EXPERIMENT 21 : 
-**AIM** : Write a program to convert Decimal number to Binary number using any high level language <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_21_dec_to_din.c)<br/>
-Output : <br/>
-![exp21](https://user-images.githubusercontent.com/113246116/194025746-a4f319a1-8ec6-4fe6-9aa3-59f9e44496b4.png)
+**AIM** : Design DFA using simulator to accept even number of a’s. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp21_DFASim)<br/>
+**Output :** <br/>
+![Experiment_21](https://user-images.githubusercontent.com/113246116/212985294-0f982e97-c47e-4993-ac98-cb453910e706.gif)
 <br/>
 
 ## EXPERIMENT 22 : 
