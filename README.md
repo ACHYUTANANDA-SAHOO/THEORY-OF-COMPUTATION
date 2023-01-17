@@ -37,5 +37,5 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |21.		|[DFA to accept strings with even a's. ](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |22.		|[DFA to accept strings with odd a's. ](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |23.		|[DFA to accept strings that end with "ab".](#exp18)<br/>	|Automaton Simulator |Uploaded |
-|24.		|[DFA to accept string having "ab" as substring.](#exp18)<br/>	|Automaton Simulator |- |
-|25.		|[DFA to accept strings starting with a or b.](#exp18)<br/>	|Automaton Simulator |- |
+|24.		|[DFA to accept string having "ab" as substring.](#exp18)<br/>	|Automaton Simulator |Uploaded |
+|25.		|[DFA to accept strings starting with a or b.](#exp18)<br/>	|Automaton Simulator |Uploaded |
