@@ -190,32 +190,31 @@ Output :
 <br/>
 
 ## EXPERIMENT 22 : 
-**AIM** : Write a program to convert Decimal number to an Octal number using any high level language. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_22_dec_to_oct.c)<br/>
-Output : <br/>
-![exp22](https://user-images.githubusercontent.com/113246116/194033677-700992d1-e4dc-4dc2-8631-22ce55398968.png)
+**AIM** : Design DFA using simulator to accept odd number of a’s <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp22_DFASim)<br/>
+**Output :** <br/>
+![Experiment_22](https://user-images.githubusercontent.com/113246116/212988858-ab0df54a-9204-45a0-b321-b33e765c6b61.gif)
+
 <br/>
 
 ## EXPERIMENT 23 : 
-**AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_23_bin_to_dec.c)<br/>
-Output : <br/>
-![exp23](https://user-images.githubusercontent.com/113246116/194037781-47c1b8b8-034e-4611-aa13-8f8b82c7886a.png)
+**AIM** : Design DFA using simulator to accept the string the end with ab over set {a,b) W= aaabab <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp23_DFASim)<br/>
+**Output :** <br/>
+
 <br/>
 
 ## EXPERIMENT 24 : 
-**AIM** : Write a program to find the CPU performance of a processor using any high level language. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_24_cpu_performance.c)<br/>
-Output : <br/>
-![exp_24](https://user-images.githubusercontent.com/113246116/194571067-d403118c-e2ae-4e34-95fa-5f33f2f66785.png)
+**AIM** : Design DFA using simulator to accept the string having ‘ab’ as substring over the set {a,b}. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp24_DFASim)<br/>
+**Output :** <br/>
+
 <br/>
 
 ## EXPERIMENT 25 : 
-**AIM** :  Write an assembly language program to swap two 8-bit data using 8085 processor. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_25_swap_num.asm)<br/>
-Output : 
-<br/> BEFORE SWAP : <br/> 
-![swap_before](https://user-images.githubusercontent.com/113246116/194017578-5d5317ec-f939-48de-b810-9756b93ceb11.png)
-<br/> AFTER SWAP : <br/> 
-![swap_after](https://user-images.githubusercontent.com/113246116/194017589-85d55ba3-5ed9-4c08-ba5c-91934511f6d8.png)
-<br/>
+**AIM** :  Design DFA using simulator to accept the string start with a or b over the set {a,b} <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp25_DFASim)<br/>
+**Output :** </br>
+![Experiment_25](https://user-images.githubusercontent.com/113246116/212989805-4a88bdcb-8441-400b-bf92-0639eb5b2d21.gif)
+
+
