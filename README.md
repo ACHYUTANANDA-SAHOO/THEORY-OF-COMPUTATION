@@ -46,91 +46,104 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 
 ## EXPERIMENT 1 : 
 **AIM** : Write a C program to simulate a Deterministic Finite Automata (DFA) for the given language representing strings that start with a and end with a. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp1_DFA.c)<br/>
-Output : 
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp1_DFA.c)<br/>
+**Output :** </br>
 ![exp1](https://user-images.githubusercontent.com/113246116/212965637-12d1ea8a-9483-4a3e-8328-870e5cb1649c.png)<br/>
 
 ## EXPERIMENT 2 : 
-**AIM** : Write an assembly language program for subtraction of two 8-bit data A7 A6 A5 A4 A3 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor.<br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_2_8bitsub_8085.asm)<br/>
-Output : 
-![exp2](https://user-images.githubusercontent.com/113246116/193996955-09d1ed74-3f2f-4768-822a-ee26648e8b07.png)<br/>
+**AIM** : Write a C program to simulate a Deterministic Finite Automata (DFA) for the given language representing strings that start with 0 and end with 1. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp2_DFA.c)<br/>
+**Output :** </br>
+![exp2](https://user-images.githubusercontent.com/113246116/212967056-d248d52d-abf9-4971-b943-0ebf2ba7f8fe.png)<br/>
 
 ## EXPERIMENT 3 : 
-**AIM** : Write an assembly language program for adding two 16-bit data using 8086 processor. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_3_16bit_add_8086)<br/>
-Output : 
-![exp3](https://user-images.githubusercontent.com/113246116/194113119-21bc9c27-5cb1-478c-a6c5-e5775d909436.png)
+**AIM** : Write a C program to check whether a given string belongs to the language defined
+by a Context Free Grammar (CFG)</br>
+S → 0A1 </br>
+A → 0A | 1A | ε <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp3_CFG.c)<br/>
+**Output :** </br>
+![exp3](https://user-images.githubusercontent.com/113246116/212967764-f55bb8ed-914d-4a84-9805-0010014113b0.png)
 <br/>
 
 ## EXPERIMENT 4 : 
-**AIM** : Write an assembly language program for subtracting two 16-bit data using 8086 processor.<br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_4_16bit_sub_8086)<br/>
-Output : 
-![exp4](https://user-images.githubusercontent.com/113246116/194113432-33b6c0a5-f212-4d09-9676-474d7f18cabd.png)
+**AIM** : Write a C program to check whether a given string belongs to the language defined
+by a Context Free Grammar (CFG). </br>
+S → 0S0 | 1S1 | 0 | 1 | ε <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp4_CFG.c)<br/>
+**Output :** </br>
+![exp4](https://user-images.githubusercontent.com/113246116/212968607-ce7a8baf-87ed-48e9-8b83-f4596b9f8242.png)
 <br/>
-
 
 ## EXPERIMENT 5 : 
-**AIM** : Write an assembly language program for multiplication of two 8-bit data A7 A6 A5
-A4 A3 A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_5_8bitmul_8085.asm)<br/>
-Output : 
-![exp5](https://user-images.githubusercontent.com/113246116/193994254-4a077de9-aa2f-4c1d-8f03-364f3e5a7e33.png)<br/>
+**AIM** : Write a C program to check whether a given string belongs to the language defined
+by a Context Free Grammar (CFG). </br>
+S → 0S0 | A </br>
+A → 1A | ε <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp5_CFG.c)<br/>
+**Output : **</br>
+![exp5](https://user-images.githubusercontent.com/113246116/212969324-b7aba8aa-408d-4364-87c6-090c2f3e0389.png)<br/>
 
 ## EXPERIMENT 6 : 
-**AIM** : Write an assembly language program for division of two 8-bit data A7 A6 A5 A4 A3
-A2 A1 A0 and B7 B6 B5 B4 B3 B2 B1 B0 using 8085 processor. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_6_8bitdiv_8085.asm)<br/>
-Output : <br/>
-![exp6](https://user-images.githubusercontent.com/113246116/193784554-b6ddb684-5f39-41ba-99b0-103364f5a793.png)<br/>
+**AIM** : Write a C program to check whether a given string belongs to the language defined
+by a Context Free Grammar (CFG) </br>
+S → 0S1 | ε <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp6_CFG.c)<br/>
+**Output :** <br/>
+![exp6](https://user-images.githubusercontent.com/113246116/212970095-73ddfa31-f434-4549-8f04-fb2ecc0bf5bc.png)<br/>
 
 ## EXPERIMENT 7 : 
-**AIM** : Write an assembly language program for multiplying two 16-bit data using 8086 processor. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%201%20LAB/Exp_7_16_bit_mul_8086)<br/>
-Output : <br/>
-![exp7](https://user-images.githubusercontent.com/113246116/194114442-ef0835e1-3392-4e31-882f-373c1f90ab72.png)
+**AIM** : Write a C program to check whether a given string belongs to the language defined
+by a Context Free Grammar (CFG) </br>
+S → A101A </br>
+A → 0A | 1A | ε <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp7_CFG.c)<br/>
+**Output :** <br/>
+![exp7](https://user-images.githubusercontent.com/113246116/212970505-692ab9c6-60f7-46cb-9a65-947e5ae41ac1.png)
 <br/>
 
-
 ## EXPERIMENT 8 : 
-**AIM** : Write an assembly language program for dividing two 16-bit data using 8086 processor <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_8_16bit_div_8086)<br/>
-Output : 
-![exp8](https://user-images.githubusercontent.com/113246116/194121208-fd18f410-a99b-4565-ac42-70bdd6df6230.png)
+**AIM** : Write a C program to simulate a Non-Deterministic Finite Automata (NFA) for the
+given language representing strings that start with b and end with a.  <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp8_NFA.c)<br/>
+**Output :** </br>
+![exp8](https://user-images.githubusercontent.com/113246116/212970898-8154d2fd-ad7d-4d51-a068-cfbd2cef09c7.png)
 <br/>
 
 ## EXPERIMENT 9 : 
-**AIM** : Design and implement 2-bit half adder using logisim simulator. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_9_HA.circ)<br/>
-Output : 
-![2_BIT_HA](https://user-images.githubusercontent.com/113246116/194001744-70937153-3d2b-4cd4-a2cd-a510ab8d4cb8.png)
+**AIM** : Write a C program to simulate a Non-Deterministic Finite Automata (NFA) for the
+given language representing strings that start with o and end with 1. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp9_NFA.c)<br/>
+**Output :** </br>
+![exp9](https://user-images.githubusercontent.com/113246116/212971214-9d66a583-9bcb-4794-9aab-38d855ed98eb.png)
 <br/>
 
 ## EXPERIMENT 10 : 
-**AIM** : Design and implement 3-bit full adder using logisim simulator. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_10_FA.circ)<br/>
-Output : 
-![3_BIT_FULL_ADDER](https://user-images.githubusercontent.com/113246116/194001495-d4d32e77-4a9d-4fe1-89cd-64e0ebdcdf6a.png)<br/>
+**AIM** : Write a C program to find ℇ-closure for all the states in a Non-Deterministic Finite
+Automata (NFA) with ℇ-moves. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp10_EClosure.c)<br/>
+**Output :** 
+![exp10]()<br/>
 
 ## EXPERIMENT 11 : 
-**AIM** : Design and implement 2-bit half adder with NAND using logisim simulator. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_11_HA_NAND.circ)<br/>
+**AIM** : Write a C program to find ℇ-closure for all the states in a Non-Deterministic Finite
+Automata (NFA) with ℇ-moves. <br/>
+File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp11_EClosure.c)<br/>
 Output : 
-![2_BIT_HA_NAND](https://user-images.githubusercontent.com/113246116/194001599-26dff8d7-10af-4e1d-8758-2a8fb1294d0f.png)<br/>
+![exp11]()<br/>
 
 ## EXPERIMENT 12 : 
 **AIM** : Write an assembly language program to find factorial of n in the given number. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_12_factorial.asm)<br/>
 Output : 
-![exp_fac](https://user-images.githubusercontent.com/113246116/194008586-39874916-f51c-460c-80b6-e30ca5d9b906.png)
+![exp12](https://user-images.githubusercontent.com/113246116/194008586-39874916-f51c-460c-80b6-e30ca5d9b906.png)
 <br/>
 
 ## EXPERIMENT 13 : 
 **AIM** : Write an assembly language program to find the largest number in an array. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%202%20LAB/exp_13_largest_num.asm)<br/>
 Output : <br/>
-![largest_num](https://user-images.githubusercontent.com/113246116/194010807-f73701c2-13f7-4988-b7e0-bc2fdbfa6134.png)
+![exp13](https://user-images.githubusercontent.com/113246116/194010807-f73701c2-13f7-4988-b7e0-bc2fdbfa6134.png)
 <br/>
 
 ## EXPERIMENT 14 : 
