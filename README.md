@@ -146,6 +146,7 @@ Output :
 ![exp13](https://user-images.githubusercontent.com/113246116/212979012-3b9e6e3a-32a7-4df0-8e6d-25aedbb7b44a.gif)
 <br/>
 
+<!--
 ## EXPERIMENT 14 : 
 **AIM** : Design of 2 stage pipeline for addition and subtraction of two numbers using any high level language. <br/>
 File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_14_2_stage_pipeline.c)<br/>
@@ -181,6 +182,7 @@ Output :
 ![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
 <br/>
 
+-->
 
 ## EXPERIMENT 21 : 
 **AIM** : Design DFA using simulator to accept even number of a’s. <br/>
