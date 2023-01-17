@@ -30,10 +30,10 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |14.		|[PDA for L = a^n.b^2n](#exp13)<br/>	|Automaton Simulator |Uploaded |
 |15.		|[TM  For input L =  a^n.b^n](#exp14)<br/>	|Automaton Simulator |Uploaded |
 |16.		|[TM  for input L = a^n.b^2n)](#exp15)<br/>	|Automaton Simulator |Uploaded |
-|17.		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |- |
+|17.		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |Uploaded |
 |18.		|[TM for L = w.w ](#exp17)<br/>	|Automaton Simulator |- |
-|19.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |- |
-|20.		|[TM to perform  subtraction](#exp18)<br/>	|Automaton Simulator |- |
+|19.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |Uploaded |
+|20.		|[TM to perform  subtraction](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |21.		|[DFA to accept strings with even a's. ](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |22.		|[DFA to accept strings with odd a's. ](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |23.		|[DFA to accept strings that end with "ab".](#exp18)<br/>	|Automaton Simulator |Uploaded |
