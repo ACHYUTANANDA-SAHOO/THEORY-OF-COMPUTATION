@@ -122,49 +122,51 @@ given language representing strings that start with o and end with 1. <br/>
 **AIM** : Write a C program to find ℇ-closure for all the states in a Non-Deterministic Finite
 Automata (NFA) with ℇ-moves. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp10_EClosure.c)<br/>
-**Output :** 
-![exp10]()<br/>
+**Output :** </br>
+![image](https://user-images.githubusercontent.com/113246116/213078446-4d10853d-2977-4599-8964-6af05213f65d.png)
+<br/>
 
 ## EXPERIMENT 11 : 
 **AIM** : Write a C program to find ℇ-closure for all the states in a Non-Deterministic Finite
 Automata (NFA) with ℇ-moves. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp11_EClosure.c)<br/>
-Output : 
-![exp11]()<br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/PROGRAMS/Exp11_EClosure.c)<br/>
+**Output :** </br> 
+![image](https://user-images.githubusercontent.com/113246116/213078467-0e0922f9-f04e-4a0d-a344-baea83380323.png)
+<br/>
 
 ## EXPERIMENT 12 : 
 **AIM** : Design DFA using simulator to accept the input string “a” ,”ac”,and ”bac”. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp12_DFASim)<br/>
 **Output :** </br>
-![exp12](https://user-images.githubusercontent.com/113246116/212978167-be204213-19dc-4193-969a-28fe071b1fe9.gif)
+![exp12](https://user-images.githubusercontent.com/113246116/213073786-9076561e-bce0-4cd2-a569-ec70e3dc13b0.png)
 <br/>
 
 ## EXPERIMENT 13 : 
 **AIM** : Design PDA using simulator to accept the input string aabb.  <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp13_DFASim)<br/>
 **Output :** <br/>
-![exp13](https://user-images.githubusercontent.com/113246116/212979012-3b9e6e3a-32a7-4df0-8e6d-25aedbb7b44a.gif)
+![exp13](https://user-images.githubusercontent.com/113246116/213074345-7383b8e1-af01-4df7-ac49-02e5c06b1617.png)
 <br/>
 
-<!--
 ## EXPERIMENT 14 : 
 **AIM** : Design PDA using simulator to accept the input string a^n.b^2n. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp14_PDASim)<br/>
 **Output :** <br/>
-
+![image](https://user-images.githubusercontent.com/113246116/213076330-ff6d5cc0-e480-4dc8-835b-0d8adc8fd784.png)
 <br/>
 
 ## EXPERIMENT 15 : 
 **AIM** : Design TM using simulator to accept the input string A^n.B^n. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp15_TMSim)<br/>
 **Output :** <br/>
-
+![image](https://user-images.githubusercontent.com/113246116/213076383-c32153b9-e0d6-4935-9b2b-4cd29a50fb9b.png)
 <br/>
 
 ## EXPERIMENT 16 : 
 **AIM** : Design TM using simulator to accept the input string A^n.B^2n <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp16_TMSim)<br/>
 **Output :** <br/>
+![image](https://user-images.githubusercontent.com/113246116/213076459-c1cd0e83-c442-4ee0-8817-7bdb598633b7.png)
 
 <br/>
 
@@ -172,7 +174,7 @@ Output :
 **AIM** : Design TM using simulator to accept the input string Palindrome ababa. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp17_TMSim)<br/>
 **Output :** <br/>
-
+![image](https://user-images.githubusercontent.com/113246116/213076540-7d6ccbf8-74e8-4371-8e9f-438c8c866492.png)
 <br/>
 
 ## EXPERIMENT 18 : 
@@ -186,17 +188,15 @@ Output :
 **AIM** : Design TM using simulator to perform addition of ‘aa’ and ‘aaa’. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp19_TMSim)<br/>
 **Output :** <br/>
-
+![image](https://user-images.githubusercontent.com/113246116/213076610-39acd315-1baf-4204-a3e7-2bfa15ed4328.png)
 <br/>
 
 ## EXPERIMENT 20 : 
 **AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp20_TMSim)<br/>
 **Output :** </br> 
-
+![image](https://user-images.githubusercontent.com/113246116/213076656-e969f0e1-7b9d-4349-92a6-6f9ba8bf5b3b.png)
 <br/>
-
--->
 
 ## EXPERIMENT 21 : 
 **AIM** : Design DFA using simulator to accept even number of a’s. <br/>
@@ -217,13 +217,14 @@ Output :
 **AIM** : Design DFA using simulator to accept the string the end with ab over set {a,b) W= aaabab <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp23_DFASim)<br/>
 **Output :** <br/>
-
+![image](https://user-images.githubusercontent.com/113246116/213076736-7771907b-454a-4eef-b3c3-c849c449c752.png)
 <br/>
 
 ## EXPERIMENT 24 : 
 **AIM** : Design DFA using simulator to accept the string having ‘ab’ as substring over the set {a,b}. <br/>
 **File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp24_DFASim)<br/>
 **Output :** <br/>
+![image](https://user-images.githubusercontent.com/113246116/213076786-4ad7c471-292b-45b5-9b6a-637f9bbcc0b1.png)
 
 <br/>
 
