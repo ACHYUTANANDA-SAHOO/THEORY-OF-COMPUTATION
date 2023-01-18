@@ -148,38 +148,52 @@ Output :
 
 <!--
 ## EXPERIMENT 14 : 
-**AIM** : Design of 2 stage pipeline for addition and subtraction of two numbers using any high level language. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_14_2_stage_pipeline.c)<br/>
-Output : <br/>
-![exp14](https://user-images.githubusercontent.com/113246116/194515431-28746606-b6bc-4047-91b6-0a447a1c1d53.png)
+**AIM** : Design PDA using simulator to accept the input string a^n.b^2n. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp14_PDASim)<br/>
+**Output :** <br/>
+
 <br/>
 
 ## EXPERIMENT 15 : 
-**AIM** : Design of 3 stage pipeline for AND, OR, NAND of two numbers using any high level language. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_15_3_stage_pipeline.c)<br/>
-Output : <br/>
-![exp_15](https://user-images.githubusercontent.com/113246116/194562748-566371c5-bd08-4427-8607-6b261b453c3b.png)
+**AIM** : Design TM using simulator to accept the input string A^n.B^n. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp15_TMSim)<br/>
+**Output :** <br/>
+
 <br/>
 
 ## EXPERIMENT 16 : 
-**AIM** : Design of 4 stage pipeline for multiplication and division of two numbers using any high level language <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_16_4_stage_pipeline.c)<br/>
-Output : <br/>
-![exp_16](https://user-images.githubusercontent.com/113246116/194558312-963e25b7-4feb-447c-ab30-e32a03d36d95.png)
+**AIM** : Design TM using simulator to accept the input string A^n.B^2n <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp16_TMSim)<br/>
+**Output :** <br/>
+
+<br/>
+
+## EXPERIMENT 17 : 
+**AIM** : Design TM using simulator to accept the input string Palindrome ababa. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp17_TMSim)<br/>
+**Output :** <br/>
+
+<br/>
+
+## EXPERIMENT 18 : 
+**AIM** : Design TM using simulator to accept the input string ww. <br/>
+**File Link :** [FILE - CLICK HERE ]()<br/>
+**Output :**<br/>
+
 <br/>
 
 ## EXPERIMENT 19 : 
-**AIM** : Write a program to find the Hit ratio for the given number of Hits and Misses in Cache memory using any high level language. <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%203%20LAB/exp_19_hitratio.c)<br/>
-Output : <br/>
-![exp_19](https://user-images.githubusercontent.com/113246116/194573938-6fa58e99-b8a3-469f-992f-f13d8c2ddba5.png)
+**AIM** : Design TM using simulator to perform addition of ‘aa’ and ‘aaa’. <br/>
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp19_TMSim)<br/>
+**Output :** <br/>
+
 <br/>
 
 ## EXPERIMENT 20 : 
 **AIM** : Write an assembly language program to find 1’s and 2’s complement of 8 bit number <br/>
-File Link : [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/COMPUTER-ARCHITECTURE/blob/main/DAY%204%20LAB/exp_20_complements.asm)<br/>
-Output : 
-![complement](https://user-images.githubusercontent.com/113246116/194015811-c9839a03-45cd-4041-b9cb-7db4c5276d94.png)
+**File Link :** [FILE - CLICK HERE ](https://github.com/ACHYUTANANDA-SAHOO/THEORY-OF-COMPUTATION/blob/main/SIMULATIONS/Exp20_TMSim)<br/>
+**Output :** </br> 
+
 <br/>
 
 -->
