@@ -22,8 +22,8 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |7.		|[Check if a string belongs to a CFG - 5](#exp7)<br/>	|VSCode - C |Uploaded |
 |8.		|[Simulate NFA - 1](#exp8)<br/>	|VSCode - C |Uploaded |
 |9.		|[Simulate NFA - 2](#exp9)<br/>	|VSCode - C |Uploaded |
-|10.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |- |
-|11.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |- |
+|10.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |Uploaded |
+|11.	|[Find E-Closure of a NFA](#exp10)<br/>	|VSCode - C |Uploaded |
 | | **SIMULATIONS** ||  |
 |12.		|[Design DFA to accept "a", "ac" and "bac". ](#exp11)	|Automaton Simulator |Uploaded |
 |13.		|[PDA for L = a^n.b^n](#exp12)<br/>	|Automaton Simulator |Uploaded |
