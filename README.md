@@ -31,7 +31,7 @@ Consists of programs and simulations related to Theory Of Computation .<br/>
 |15.		|[TM  For input L =  a^n.b^n](#exp14)<br/>	|Automaton Simulator |Uploaded |
 |16.		|[TM  for input L = a^n.b^2n)](#exp15)<br/>	|Automaton Simulator |Uploaded |
 |17.		|[TM  Simulation  for Palindrome W= ababa ](#exp16)<br/>	|Automaton Simulator |Uploaded |
-|18.		|[TM for L = w.w ](#exp17)<br/>	|Automaton Simulator |- |
+|18.		|[TM for L = w.w ](#exp17)<br/>	|Automaton Simulator |Uploaded |
 |19.		|[TM to  perform addition ](#exp17)<br/>	|Automaton Simulator |Uploaded |
 |20.		|[TM to perform  subtraction](#exp18)<br/>	|Automaton Simulator |Uploaded |
 |21.		|[DFA to accept strings with even a's. ](#exp18)<br/>	|Automaton Simulator |Uploaded |
@@ -181,6 +181,7 @@ Automata (NFA) with ℇ-moves. <br/>
 **AIM** : Design TM using simulator to accept the input string ww. <br/>
 **File Link :** [FILE - CLICK HERE ]()<br/>
 **Output :**<br/>
+![image](https://user-images.githubusercontent.com/113246116/213934337-2b2c2b9d-b62d-4fcf-902b-7c091087ff52.png)
 
 <br/>
 
